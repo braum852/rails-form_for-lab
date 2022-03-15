@@ -27,6 +27,3 @@ ActiveRecord::Schema.define(version: 2) do
   end
 
 end
-
-##rake db:create:all
-##ABOVE TO MIGRATE MULTIPLE DATABASES
